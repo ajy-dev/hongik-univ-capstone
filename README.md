@@ -3,7 +3,7 @@
 홍익대학교 컴퓨터공학과 졸업 프로젝트로, 4인 팀이 Unity로 개발한 2D 플랫포머 멀티플레이 게임입니다.
 
 > 이 저장소는 팀 저장소를 포크한 것입니다.
-> 원본: [penguin0305/project-2D](https://github.com/penguin0305/project-2D)
+> 원본: [penguin0305/project-2D](https://github.com/penguin0305/project-2D)  
 > 아래는 제가 담당한 부분만 정리한 내용입니다.
 
 | 항목 | 내용 |
